@@ -22,7 +22,7 @@
         </div>
     <script src="jquery-3.5.1.min.js"></script>
     <script>
-        let base_url = "http://localhost/Rohit/student.php";
+        let base_url = "http://localhost/student.php";
 
         $("document").ready(function(){
             getMenuNameList();
